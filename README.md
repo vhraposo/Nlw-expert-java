@@ -1,6 +1,6 @@
-# Back-end do site de certificação online
+# Certificação API
 
-Projeto desenvolvido em Java usando Spring Boot, Maven, Lombok, PostgreSQL, JDBC, Docker, REST API e Hibernate ORM.
+Projeto desenvolvido em Java usando Spring Boot no evento Next Level Week Expert da Rocketseat.
 
 ## Visão Geral do Projeto
 
